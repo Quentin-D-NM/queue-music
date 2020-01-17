@@ -1,7 +1,8 @@
-package com.example.queuemusic;
+package com.example.queuemusic.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.example.queuemusic.R;
 
 public class MainActivity extends AppCompatActivity {
 
